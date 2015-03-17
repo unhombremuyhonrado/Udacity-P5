@@ -25,3 +25,9 @@ RESOURCES:
 http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs?utm_medium=BizDev-TutsPlus0313
 http://knockoutjs.com/documentation/observables.html
 
+
+Samples:
+
+http://mimibambino.github.io/DinosaurMap/
+https://github.com/danceoval/neighborhood/blob/master/js/app.js
+https://github.com/lei-clearsky/neighborhood-map-seperate-model/blob/master/js/app.js
