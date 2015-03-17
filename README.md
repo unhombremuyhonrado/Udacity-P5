@@ -21,6 +21,7 @@ Google Maps
 
 
 RESOURCES:
+
 http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs?utm_medium=BizDev-TutsPlus0313
 http://knockoutjs.com/documentation/observables.html
 
